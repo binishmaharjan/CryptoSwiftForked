@@ -3,13 +3,13 @@
 import PackageDescription
 
 let package = Package(
-  name: "CryptoSwift",
+  name: "CryptoSwiftForked",
   platforms: [
     .macOS(.v10_13), .macCatalyst(.v13), .iOS(.v11), .tvOS(.v11), .watchOS(.v4), .custom("visionos", versionString: "1.0")
   ],
   products: [
     .library(
-      name: "CryptoSwift",
+      name: "CryptoSwiftForked",
       targets: ["CryptoSwift"]
     )
   ],
