@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "75211F91207249D8004E41F8"
-               BuildableName = "CryptoSwift-TestHostApp.app"
-               BlueprintName = "CryptoSwift-TestHostApp"
-               ReferencedContainer = "container:CryptoSwift.xcodeproj">
+               BuildableName = "CryptoSwiftForked-TestHostApp.app"
+               BlueprintName = "CryptoSwiftForked-TestHostApp"
+               ReferencedContainer = "container:CryptoSwiftForked.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -31,9 +31,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "75211F91207249D8004E41F8"
-            BuildableName = "CryptoSwift-TestHostApp.app"
-            BlueprintName = "CryptoSwift-TestHostApp"
-            ReferencedContainer = "container:CryptoSwift.xcodeproj">
+            BuildableName = "CryptoSwiftForked-TestHostApp.app"
+            BlueprintName = "CryptoSwiftForked-TestHostApp"
+            ReferencedContainer = "container:CryptoSwiftForked.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <Testables>
@@ -54,9 +54,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "75211F91207249D8004E41F8"
-            BuildableName = "CryptoSwift-TestHostApp.app"
-            BlueprintName = "CryptoSwift-TestHostApp"
-            ReferencedContainer = "container:CryptoSwift.xcodeproj">
+            BuildableName = "CryptoSwiftForked-TestHostApp.app"
+            BlueprintName = "CryptoSwiftForked-TestHostApp"
+            ReferencedContainer = "container:CryptoSwiftForked.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "75211F91207249D8004E41F8"
-            BuildableName = "CryptoSwift-TestHostApp.app"
-            BlueprintName = "CryptoSwift-TestHostApp"
-            ReferencedContainer = "container:CryptoSwift.xcodeproj">
+            BuildableName = "CryptoSwiftForked-TestHostApp.app"
+            BlueprintName = "CryptoSwiftForked-TestHostApp"
+            ReferencedContainer = "container:CryptoSwiftForked.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
