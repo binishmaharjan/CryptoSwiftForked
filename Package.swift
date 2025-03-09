@@ -10,12 +10,12 @@ let package = Package(
   products: [
     .library(
       name: "CryptoSwiftForked",
-      targets: ["CryptoSwift"]
+      targets: ["CryptoSwiftForked"]
     )
   ],
   targets: [
-    .target(name: "CryptoSwift", resources: [.copy("PrivacyInfo.xcprivacy")]),
-    .testTarget(name: "CryptoSwiftTests", dependencies: ["CryptoSwift"])
+    .target(name: "CryptoSwiftForked", resources: [.copy("PrivacyInfo.xcprivacy")]),
+    .testTarget(name: "CryptoSwiftTests", dependencies: ["CryptoSwiftForked"])
   ],
   swiftLanguageVersions: [.v5]
 )
